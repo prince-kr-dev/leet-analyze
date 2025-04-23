@@ -29,12 +29,11 @@ A powerful web app that helps you **analyze** and **compare** LeetCode accounts 
 
 ## 📸 Demo & Screenshots
 
-> 📍 Live Demo: [Your Live Link Here](https://your-live-demo-link.com)  
+> 📍 Live Demo: [Link](https://leet-analyze.vercel.app/)  
 
 ### Sample Analysis
-
-![Analysis Screenshot](screenshots/analysis.png)
+![leetanalyze](https://github.com/user-attachments/assets/b8ba6a20-a5a2-4134-ba9d-0d2572818f48)
 
 ### Comparison View
+![leetcompare](https://github.com/user-attachments/assets/a6cd45af-ada5-4ec8-9f15-a187ffafc9fd)
 
-![Comparison Screenshot](screenshots/comparison.png)
